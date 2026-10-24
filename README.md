@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Elastiek
 - 👀 I’m interested in home automation especially wth HomeAssistant
 - 🌱 I’m currently learning every day
-- 💞️ I’m looking to collaborate on: know idea
+- 💞️ I’m looking to collaborate on: 
 - 📫 How to reach me elastiek62@gmail.com
 
 <!---
